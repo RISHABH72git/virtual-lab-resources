@@ -41,6 +41,7 @@ A curated collection of free virtual labs, simulations, and interactive tools fo
 |------|-------------|
 | [astro-simulations](https://ccnmtl.github.io/astro-simulations/) | Astronomy simulations and animations by the Columbia Center for New Media Teaching and Learning |
 | [GEAS Project Astronomy Laboratory Exercises](http://astronomy.nmsu.edu/geas/labs/html/home.shtml) | Astronomy education program based at New Mexico State University |
+| [Space Atlas](https://spaceatlasedu.org/) | Interactive Moon-phase, Earth-season and cosmic-scale models for teacher-guided learning, with prompts and science references. Uses GA4 and AdSense; unsupervised browsing by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)). |
 | [SkyServer Projects](http://skyserver.sdss.org/dr16/en/proj/projhome.aspx) | Activities using the Sloan Digital Sky Survey; includes basic, advanced, and research challenges |
 
 ---
